@@ -1,4 +1,4 @@
-//Given a list of Employees (salary), filter employees with salary greater than 50,000.
+//Given a list of integers, filter numbers whose square is greater than 500.
 
 import java.util.*;
 
