@@ -1,5 +1,4 @@
-//Given a list of integers, use map() to multiply each number by 2 and print the new list.
-//Example: Input: [1, 2, 3, 4] → Output: [2, 4, 6, 8]
+//Given a list of strings, use map() to find the length of each string.
 
 import java.util.*;
 import java.util.stream.*;
